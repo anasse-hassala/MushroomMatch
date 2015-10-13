@@ -9,7 +9,7 @@ This is part of Mobile Services class project authors followed in EURECOM.
 ## How to install
 
 ## Authors
-**Henning Schei** - henning.schei@eurecom.fr
+**Henning Schei** (Main Developer)- henning.schei@eurecom.fr
 
 **Anasse Hassala** - anasse.hassala@eurecom.fr
 
